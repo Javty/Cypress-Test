@@ -25,7 +25,7 @@ If you haven't already initialized npm for your project, do it by running the fo
 ### Step 3: Install Cypress
 Use npm to install Cypress as a dev dependency in your project:
 
-Inline code: `npm install cypress --save-dev`
+> `npm install cypress --save-dev`
 
 Alternatively, you can install a specific version of Cypress using:
 
@@ -61,5 +61,7 @@ You're now all set to write and run tests using Cypress!
 
 ## Additional Resources
 Cypress Documentation: [cypress.io](https://docs.cypress.io)
+
 Cypress GitHub Repository: [cypress.io](https://github.com/cypress-io/cypress)
+
 Feel free to explore the official documentation and community resources to make the most of Cypress and its powerful features. Happy testing!
