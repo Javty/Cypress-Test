@@ -25,7 +25,8 @@ If you haven't already initialized npm for your project, do it by running the fo
 ### Step 3: Install Cypress
 Use npm to install Cypress as a dev dependency in your project:
 
-> npm install cypress --save-dev
+Inline code: `npm install cypress --save-dev`
+
 Alternatively, you can install a specific version of Cypress using:
 
 > npm install cypress@x.x.x --save-dev
@@ -36,6 +37,7 @@ Replace x.x.x with the desired version number.
 Once Cypress is installed, you can open Cypress by running the following command in your project directory:
 
 > npx cypress open
+
 Cypress will launch, and you will see the Cypress Test Runner window.
 
 Congratulations! You have successfully installed Cypress on your system.
@@ -46,6 +48,7 @@ To start writing your first Cypress test, follow these steps:
 Open the Cypress Test Runner by running:
 
 > npx cypress open
+
 In the Cypress Test Runner window, click on the "Examples" folder and then select "First Test" from the list.
 
 Modify the test code to fit your needs and save the changes.
@@ -57,6 +60,6 @@ Click on the test, and Cypress will open a browser window and run your test agai
 You're now all set to write and run tests using Cypress!
 
 ## Additional Resources
-Cypress Documentation: [Link Text](https://docs.cypress.io)
-Cypress GitHub Repository: [Link Text](https://github.com/cypress-io/cypress)
+Cypress Documentation: [cypress.io](https://docs.cypress.io)
+Cypress GitHub Repository: [cypress.io](https://github.com/cypress-io/cypress)
 Feel free to explore the official documentation and community resources to make the most of Cypress and its powerful features. Happy testing!
