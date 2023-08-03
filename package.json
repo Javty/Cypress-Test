@@ -1,0 +1,19 @@
+{
+  "name": "cypress-test",
+  "version": "1.0.0",
+  "description": "Cypress is a popular end-to-end testing framework that provides fast, reliable, and easy-to-use testing for web applications. This README guide will walk you through the installation process for Cypress, allowing you to start writing your tests and ensuring the quality of your web applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Javty/Cypress-Test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Javty/Cypress-Test/issues"
+  },
+  "homepage": "https://github.com/Javty/Cypress-Test#readme"
+}
